@@ -1,0 +1,2 @@
+archive_index_number,timestamp,non_event_flag,over_freq_flag,over_freq_index,under_freq_flag,under_freq_index,ambig_flag,severity_desc,file_name,ABC_values
+0,1970-01-01 00:00:00,False,False,nan,False,nan,False,None,G:/My Drive/PGE Frequency Response/Archive/2019-08-01-13-45_1.csv,"[nan, nan, nan]"
